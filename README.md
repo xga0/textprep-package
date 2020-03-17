@@ -1,5 +1,10 @@
 # textprep
+PyPl link: https://pypi.org/project/textprep/
 One-stop text preprocessing package for NLP algorithm. 
+
+`from textprep import textprep` \
+`text1 = text1` \
+`text2 = textprep.textprep(text1)`
 
 * Fix contractions.
 * Remove punctuation.
