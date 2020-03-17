@@ -1,5 +1,5 @@
 # textprep
-PyPl link: https://pypi.org/project/textprep/
+PyPl link: https://pypi.org/project/textprep/ \
 One-stop text preprocessing package for NLP algorithm. 
 
 `from textprep import textprep` \
